@@ -42,7 +42,6 @@ public class Lab {
     public void setNthElementOfArray(int[] arr, int n, int val){
         arr[n] = val;
         System.out.println(arr);
-
     }
 
     /**
